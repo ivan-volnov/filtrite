@@ -50,3 +50,6 @@ Another thing to note is that [GitHub disables scheduled workflows after 60 days
 
 ### [License](LICENSE)
 This is free as in freedom software. Do whatever you like with it.
+
+### Version
+1
